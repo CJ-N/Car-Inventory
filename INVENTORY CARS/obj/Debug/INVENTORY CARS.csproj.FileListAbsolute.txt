@@ -1,0 +1,22 @@
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\bin\Debug\INVENTORY CARS.exe.config
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\bin\Debug\INVENTORY CARS.exe
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\bin\Debug\INVENTORY CARS.pdb
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\bin\Debug\Domain.dll
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\bin\Debug\Session.dll
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\bin\Debug\Domain.pdb
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\bin\Debug\Session.pdb
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\obj\Debug\INVENTORY CARS.csprojResolveAssemblyReference.cache
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\obj\Debug\INVENTORY_CARS.About.resources
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\obj\Debug\INVENTORY_CARS.Form1.resources
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\obj\Debug\INVENTORY_CARS.InventoryOpenForm.resources
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\obj\Debug\INVENTORY_CARS.LoginForm.resources
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\obj\Debug\INVENTORY_CARS.Main_Page.resources
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\obj\Debug\INVENTORY_CARS.Product_Infomation.resources
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\obj\Debug\INVENTORY_CARS.Properties.Resources.resources
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\obj\Debug\INVENTORY_CARS.Sales.resources
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\obj\Debug\INVENTORY_CARS.Stock Main.resources
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\obj\Debug\INVENTORY_CARS.Vehicle_Stock_Control.resources
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\obj\Debug\INVENTORY CARS.csproj.GenerateResource.Cache
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\obj\Debug\INVENTORY CARS.exe
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\obj\Debug\INVENTORY CARS.pdb
+C:\Users\ITL\documents\visual studio 2017\Projects\INVENTORY CARS\INVENTORY CARS\obj\Debug\INVENTORY_CARS.Customer_Registration.resources
